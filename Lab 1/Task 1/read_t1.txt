@@ -1,0 +1,3 @@
+Lets continue with our first system call open() whose purpose is to open file for reading or writing or to create
+new file. You should open it's man page if you haven't already done so using man 2 open command and read trough
+basics (2 is manual section number, use man man to read more about integrated manual section numbers).
